@@ -1,0 +1,7 @@
+{
+  "name": "erc1155-proxy-lab",
+  "private": true,
+  "dependencies": {
+    "@openzeppelin/upgrades-core": "^1.46.0"
+  }
+}
